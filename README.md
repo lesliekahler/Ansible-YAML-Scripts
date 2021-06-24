@@ -4,6 +4,7 @@
 The files in this repository were used to configure the network depicted below.
 
 /Users/leslie/Ansible-YAML-Scripts/Diagrams/Jumpbox_diagram
+<img width="1002" alt="Jumpbox_Diagram" src="https://user-images.githubusercontent.com/78235740/123184050-19c8e300-d450-11eb-969a-b41699871c4f.png">
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -70,6 +71,8 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 - File location: Desktop/Docker_ps_output.png
+- <img width="925" alt="Docker_ps_output" src="https://user-images.githubusercontent.com/78235740/123183994-fd2cab00-d44f-11eb-8cce-b41c87363de0.png">
+
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
