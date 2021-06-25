@@ -42,6 +42,7 @@ The configuration details of each machine may be found below.
 | Web-1       |Web Server  | 10.0.0.5     | Linux                      |
 | Web-2       |Web Server  | 10.0.0.6     | Linux                      |
 | Web-3       |Web Server  | 10.0.0.10   | Linux                      |
+| Elk-VM      | Elasticsearch Stack |  10.1.0.5  |   Linux            |
 
 ### Access Policies
 
